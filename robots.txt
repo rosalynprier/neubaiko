@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raucaingi.weinfeldeninside.ch/sitemap.xml
